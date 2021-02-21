@@ -1,1 +1,1 @@
-Hidss
+Chciken fingersgit config --global user.name
